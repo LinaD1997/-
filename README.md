@@ -1,3 +1,5 @@
+![0hrku19Hygk](https://github.com/LinaD1997/Portfolio/assets/141436718/d66bc0b6-5ba5-4c92-9066-b1b282e78209)
+
 # Портфолио: QA инженер
 
 ## Обо мне 
