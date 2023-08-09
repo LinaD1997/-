@@ -39,9 +39,7 @@
  - Qase.io<br>
  - Notion<br>
  - Сheckvist<br>
- - Postman
-
-<br>
+ - Postman   
 
 <p>Выводы (итоги):</p>
 <ol>
